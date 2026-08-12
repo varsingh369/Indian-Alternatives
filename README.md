@@ -1,7 +1,7 @@
-# Indian-Tech Alternatives
+# Indian Tech, Apps, Website Alternatives
 A collectively curated list of Indian software alternatives to popular services, because it is time to prioritize the privacy, security, and sovereignty with atmanirbhar apps, web and tools.🇮🇳
 
-# Messenger Apps
+# Messenger Apps or Web
 - Sandes Messenger (Govt)
 - Elyments Messenger
 - Arattai Messenger
