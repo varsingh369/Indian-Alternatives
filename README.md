@@ -1,23 +1,23 @@
 # Indian-Tech Alternatives
-A collectively curated list of Indian alternatives to popular services, because it is time to prioritise our privacy, security, and sovereignty. 🇮🇳
+A collectively curated list of Indian software alternatives to popular services, because it is time to prioritize the privacy, security, and sovereignty with atmanirbhar apps, web and tools.🇮🇳
 
 # Messenger Apps
-- Sandes
-- Elyment
-- Arattai
-- Jiochat
-- Troop
-- Clap
-- Guddy
-- Ninja
+- Sandes Messenger (Govt)
+- Elyments Messenger
+- Arattai Messenger
+- Samvad Messenger
+- Jiochat Messenger
+- Troop Messenger
+- Clap Messenger
+- Guddy Messenger
+- Ninja Messenger
 
-# Search Engines
-- Bindi 
-- Epic
-- 13Tabs
-- iBharat
+# Search Engines (Crawlers)
+- Bindi Search Engine
+- Epic Search Engine
+- iBharat Search Engine
 
-# Meta-Searches
+# Meta-Searches (CSE)
 - Onionride
 - Sandhan
 - Qmamu
@@ -31,44 +31,90 @@ A collectively curated list of Indian alternatives to popular services, because 
 - SearchEgy
 
 # Web Browsers
+- Aekant
 - Epic
-- Ulaa
 - Indi
-- Veera
+- Omni
+- Ulaa
+- Indian
 - Zordo
-- Hola
-- Bindi
+- Qmamu
+- BharNet
+- Netos
+- Bharat
+- Chakra
 - Sphere
+  
+# Microblogs
+- Nyburs
+- Pepul
+- Tooter
+- Namo
+- Maxvot
+- OneHindus
+- Kutumb
+- Medial
 
 # Social Networking
 - Sharechat
-- Pepul
+- Frndlook
+- Panchit
+- Zktor
+- Yuukke
+- Sanudesh
+- Flickpost
+- Starfomo
+- Joinsocial
+- Lileineon
+- Identity
+- Webypost
 - Inbook
 - Peldoo
 - Socialind
 - Hood
-- Crivva
-- Peerlist
+- HindSocial
+- Finixapp
+- Bharatpage
+- ConnectGalaxy
+
+# Business Networking
 - Globalinker
+- Sayuj
+- Crivva
+- Fishbowl
+- Coffeemug
 
 # Video-sharing
 - Atoplay
-- Xenotube
-- Lykstage
+- Chitram
+- Rediff
+- Ooba (Manipur)
+- ApnaTube
 
 # App-stores
-- Indus
-- Bindi
-- Govin
+- Aaistore
+- Govin (Govts)
 
 # Payment Apps
+- Freecharge
+- Timepay
 - Bhimpay
 - Paytm
+- Fampay
+- Cred
+- Dhani
+- Navi
+- Pop
+- Freo
+- Cheq
+- Simpl
+- TataNeu
+- Mobikwik
+- OmniCard
 - Jiopay
-- Phonepe
 - Airtelpay
 - Bharatpe
-- Amazonpay 
+- PatZapp
 
 # Short-videos
 - Chingari
@@ -95,13 +141,20 @@ A collectively curated list of Indian alternatives to popular services, because 
 - Zee5
 - SunNxt
 - Yupptv
+- Chaupal
+- EtvWin
+- Waves
+- Prachyam
 
 # Smart-Phones
 - Micromax
 - Lava
-- Xolo
-- Celkon
-- Ai+
+- Boltt
+- Aiplus
+- Spice
+- Jivi
+- Jiophone
+- iBall
 - Karbonn
 
 # E-commerce
@@ -119,7 +172,7 @@ A collectively curated list of Indian alternatives to popular services, because 
 - Snapdeal
 - Discounto
 
-# Gasoline Providers
+# Fuel Providers
 - Hindustan(HP)
 - Bharat(BP)
 - IndianOil
@@ -133,10 +186,12 @@ A collectively curated list of Indian alternatives to popular services, because 
 - Newsx
 - DDIndia
 - Republic
+- Sulakhe
   
 # SaaS Platforms
 - Zoho CRM
 - Greyt HRM
+- EZ HRM
 
 # Web/Cloud Hostings
 - Milesweb
@@ -160,11 +215,15 @@ A collectively curated list of Indian alternatives to popular services, because 
 # Email Providers
 - Rediff Mail
 - Zoho Mail
+- Bindi Mail
 
 # Operating Systems
-- Boss Desktop
+- Boss Linux (C-DAC)
+- Maya OS (Govt)
 - Bhar OS
-- Maya OS
+- Boss OS
+- Nxt OS
+- Prime OS
 - Jiotele OS
   
 # Money Transfers
@@ -180,6 +239,8 @@ A collectively curated list of Indian alternatives to popular services, because 
 # Maps/Navigation 
 - Mappls
 - Navic
+- Olamaps
+- Bindimaps
 - Bharatmaps
 
 # Video Conferencing
